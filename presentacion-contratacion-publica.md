@@ -243,3 +243,5 @@ Cuando un contrato contenga prestaciones correspondientes a otro u otros de dist
 ---
 
 ## Más información
+
+- [Guía de la Ley de Contratos del Sector Público (Real Decreto Legislativo 3/2011)](https://civio.es/quien-cobra-la-obra/guia-de-la-ley/)
